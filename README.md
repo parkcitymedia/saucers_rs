@@ -20,7 +20,7 @@ a repo dedicated to holding data and solving the "hot saucers" puzzles for Fortn
   ![map image](Capture.png)
   the map here was patched together, revealing a fortnite island join code
   ![mari response](creative_response.png)
-  the island contained further info, which led to the wrap-up. great work!
+  the island contained further info, which led to the wrap-up on june 7th, 1:08 pm pst. great work!
   ![mari final response](last_reality.png)
 
 ## Long term cooridors-like puzzle solution
