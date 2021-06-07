@@ -23,7 +23,7 @@ a repo dedicated to holding data and solving the "hot saucers" puzzles for Fortn
   the island contained further info, which led to the wrap-up on june 7th, 1:08 pm pst. great work!
   ![mari final response](last_reality.png)
 
-## Long term cooridors-like puzzle solution
+## Long term corridors-like puzzle solution
 - more of an engine at the moment; currently grabs tag values nicely. (right now it's set to output the first tag of the first edge of the first tile, which is mapped to "a".)
   - example can be found in `tile.json` for data input.
   - data input is based on this scheme, read from the top of a hexagon clockwise.
