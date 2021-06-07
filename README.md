@@ -1,4 +1,7 @@
 # Saucers (complete)
+
+<h4><b><i>!!! this puzzle has been solved, but this repo will remain open and in semi-active development for any possible puzzles down the road !!!</i></b></h4>
+
 \[SOLVED! had a blast guys!]
 a repo dedicated to holding data and solving the "hot saucers" puzzles for Fortnite Season 7.
 
