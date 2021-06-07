@@ -7,12 +7,15 @@ a repo dedicated to holding data and solving the "hot saucers" puzzles for Fortn
 - execute a `cargo run` in the directory
   - default output binary gets tossed into target/debug/\<binary>
 
+## current puzzle being worked on here:
+  - someting similar to Destiny 2's "corridors of time" puzzle. hexagons have been littered in with all of our other Mari outputs, and have a center value, 6 sides which can be OPEN(true) or CLOSED(false). each side has a set of 3 LETTERS(tags 1-3), and the goal is first to align these edge tags together, effectively "locking" them together like a jigsaw puzzle piece. after that, we (supposedly) trace lines through the open sides and end up with a path that intersects the numbers (center values), which i'd imagine is some sort of encoded string we would then need to submit once it's been decoded
+
 ## features
 - more of an engine at the moment; currently grabs tag values nicely. (right now it's set to output the first tag of the first edge of the first tile, which is mapped to "a".)
   - example can be found in `tile.json` for data input.
   - data input is based on this scheme, read from the top of a hexagon clockwise.
   ![example tile data legend](TileTagExample.png)
-  <sub>image credit: Epic Games | mari's "we'll get more tomorrow" post from the Fortnite Official discord, June 6th</sub>
+  <sub>image credit: Epic Games | mari's "we'll get more tomorrow" post from the Fortnite Official discord</sub>
 
   <br>
 
