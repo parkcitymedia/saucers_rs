@@ -72,4 +72,4 @@ a repo dedicated to holdong data and solving the "hot saucers" puzzles for Fortn
         }
     }
     ```
-<sub>neither i nor any involved with the operations of this repository are affilliates with the Fortnite Franchise, Epic, or any related subsidiaries. all art and  </sub>
+<sub>neither i nor any involved with the operations of this repository are affilliates with the Fortnite Franchise, Epic, or any related subsidiaries. all art and related IP of the aforementioned Franchise(s), Compan(ies) and Subsidiar(ies) belongs to it's respectful owner(s). </sub>
