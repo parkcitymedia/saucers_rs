@@ -21,7 +21,7 @@ a repo dedicated to holding data and solving the "hot saucers" puzzles for Fortn
   - example can be found in `tile.json` for data input.
   - data input is based on this scheme, read from the top of a hexagon clockwise.
   ![example tile data legend](example_tags_and_edge_booleans.png)
-  <sub>image credit: Epic Games | mari's "we'll get more tomorrow" post from the Fortnite Official discord</sub>
+  <sub>image credit: ParkCity/Blake G., deriv. of content from Epic Games | based on mari's "we'll get more tomorrow" post from the Fortnite Official discord on June 6th.</sub>
 
   <br>
 
