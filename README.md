@@ -12,6 +12,10 @@ a repo dedicated to holdong data and solving the "hot saucers" puzzles for Fortn
   - example can be found in `tile.json` for data input.
   - data input is based on this scheme, read from the top of a hexagon clockwise.
   ![example tile data legend](TileTagExample.png)
+  <sub>image credit: Epic Games | mari's "we'll get more tomorrow" post from the Fortnite Official discord</sub>
+
+  <br>
+
   - `tile.json`
     ```json
     {
@@ -68,3 +72,4 @@ a repo dedicated to holdong data and solving the "hot saucers" puzzles for Fortn
         }
     }
     ```
+<sub>neither i nor any involved with the operations of this repository are affilliates with the Fortnite Franchise, Epic, or any relates subsidiaries. all art and  </sub>
