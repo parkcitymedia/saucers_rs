@@ -1,5 +1,5 @@
 # Saucers
-a repo dedicated to holdong data and solving the "hot saucers" puzzles for Fortnite Season 7.
+a repo dedicated to holding data and solving the "hot saucers" puzzles for Fortnite Season 7.
 
 ## installation:
 - clone repo
@@ -8,7 +8,7 @@ a repo dedicated to holdong data and solving the "hot saucers" puzzles for Fortn
   - default output binary gets tossed into target/debug/\<binary>
 
 ## features
-- more of an engine at the moment; currently grabs tag values nicely.
+- more of an engine at the moment; currently grabs tag values nicely. (right now it's set to output the first tag of the first edge of the first tile, which is mapped to "a".)
   - example can be found in `tile.json` for data input.
   - data input is based on this scheme, read from the top of a hexagon clockwise.
   ![example tile data legend](TileTagExample.png)
