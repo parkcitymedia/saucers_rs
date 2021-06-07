@@ -20,7 +20,7 @@ a repo dedicated to holding data and solving the "hot saucers" puzzles for Fortn
 - more of an engine at the moment; currently grabs tag values nicely. (right now it's set to output the first tag of the first edge of the first tile, which is mapped to "a".)
   - example can be found in `tile.json` for data input.
   - data input is based on this scheme, read from the top of a hexagon clockwise.
-  ![example tile data legend](TileTagExample.png)
+  ![example tile data legend](example_tags_and_edge_booleans.png)
   <sub>image credit: Epic Games | mari's "we'll get more tomorrow" post from the Fortnite Official discord</sub>
 
   <br>
